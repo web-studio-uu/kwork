@@ -1,5 +1,5 @@
 import {benefitsList} from "@/data/benefits-data";
-import {BenefitCard} from "@/components/BenefitCard";
+import {BenefitCard} from "@/components/layout/sections/benefits/benefit-card";
 
 export const BenefitsSection = () => {
   return (

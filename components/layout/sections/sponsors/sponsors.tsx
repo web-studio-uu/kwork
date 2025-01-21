@@ -1,5 +1,5 @@
 import { sponsors } from "@/data/sponsors-data";
-import {SponsorsMarquee} from "@/components/SponsorsMarquee";
+import {SponsorsMarquee} from "@/components/layout/sections/sponsors/SponsorsMarquee";
 
 interface SponsorsSectionProps {
     title?: string;

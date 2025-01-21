@@ -1,5 +1,5 @@
 import { featureList } from "@/data/features-data";
-import {FeatureCard} from "@/components/FeatureCard";
+import {FeatureCard} from "@/components/layout/sections/features/feature-card";
 
 export const FeaturesSection = () => {
   return (
